@@ -14,5 +14,9 @@ Main components used in this project
 * Compiler : XC8
 * Language : C
 
+# Ciruit design
+![1](https://github.com/user-attachments/assets/15d1ac55-e135-4718-8ebd-4522850a7a98)
+
+
 # Contact
 gmail: baruchmumba@gmail.com
