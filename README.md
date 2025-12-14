@@ -1,0 +1,1 @@
+This project develops a portable ColorMeter instrument using the TCS34725 RGB Color Sensor interfaced with a PIC Microcontroller. The device measures light intensity and converts the raw Red, Green, and Blue data into human-readable values, displaying them on an LCD.
